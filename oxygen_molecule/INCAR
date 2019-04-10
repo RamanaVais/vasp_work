@@ -1,0 +1,9 @@
+SYSTEM = O ATOM  
+ISMEAR = 0        
+SIGMA = 0.01    
+ISPIN = 2
+MAGMOM = 2*2 
+IBRION = 2
+
+NSW = 10
+
