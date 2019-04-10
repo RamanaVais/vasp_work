@@ -1,0 +1,5 @@
+SYSTEM = O ATOM  
+ISMEAR = 0        
+SIGMA = 0.01     
+ISPIN = 2
+
